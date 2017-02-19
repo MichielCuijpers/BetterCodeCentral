@@ -1,4 +1,6 @@
 # Better Code Central
+[![Build Status](https://travis-ci.org/robvanderleek/BetterCodeCentral.svg?branch=master)](https://travis-ci.org/robvanderleek/BetterCodeCentral)
+[![BCH compliance](https://bettercodehub.com/edge/badge/robvanderleek/BetterCodeCentral)](https://bettercodehub.com)
 
 Code behind the Better Code Central website
 
