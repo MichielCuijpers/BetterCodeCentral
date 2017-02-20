@@ -26,7 +26,7 @@ public class HomeControllerTest {
     public void getHello() throws Exception {
         mvc.perform(MockMvcRequestBuilders.get("/").accept(MediaType.APPLICATION_JSON))
             .andExpect(status().isOk())
-            .andExpect(content().string(equalTo("Welcome to Better Code Central!")));
+            .andExpect(content().string(equalTo("Warm welcome to Better Code Central!")));
     }
 
 }
