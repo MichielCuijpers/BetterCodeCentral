@@ -8,7 +8,7 @@ public class HomeController {
 
     @RequestMapping("/")
     public String index() {
-        return "Hello there! Welcome to Better Code Central!";
+        return "Hello there! Warm Welcome to Better Code Central!";
     }
 
 }
